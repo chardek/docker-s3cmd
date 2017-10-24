@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM debian:stretch
 MAINTAINER Chris Hardekopf <chrish@basis.com>
 
 # Install pip
